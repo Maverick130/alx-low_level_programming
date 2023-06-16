@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-  *main - entz point
+  *main - entry point
   *
   *return: always 0 (success)
   */
