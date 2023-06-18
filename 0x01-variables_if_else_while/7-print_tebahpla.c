@@ -6,11 +6,11 @@
 int main(void)
 {
 /* introducing a variable */
-	char bruce;
+	char b;
 
-	for (bruce = 'z'; bruce >= 'a'; bruce--)
+	for (b = 'z'; b >= 'a'; b--)
 	{
-		putchar('bruce');
+		putchar('b');
 	}
 	putchar('\n');
 	return (0);
