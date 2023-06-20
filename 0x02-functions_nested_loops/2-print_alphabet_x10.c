@@ -5,7 +5,6 @@
   *
   */
 void print_alphabet_x10(void);
-{
 /* declaring a variable */
 	int g;
 	char b;
