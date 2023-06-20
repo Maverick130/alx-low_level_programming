@@ -7,13 +7,13 @@
 void print_alphabet_x10(void);
 /* declaring a variable */
 	int g;
-	char b;
+	int b;
 
-	for (g = 1; g <= 10; g++)
+	for (g = 1; b <= 10; b++)
 	{
-		for (b = 'a'; b <= 'z'; b++)
+		for (g = '97'; g <= '122'; g++)
 		{
-			_putchar(b);
+			_putchar(g);
 		}
 		_putchar('\n');
 	}
