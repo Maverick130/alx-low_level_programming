@@ -1,7 +1,7 @@
 #include "main.h"
 /**
   * print_sign - comparing the n value
-  *
+  * @n - int to be worked on
   * Return: 0 always
   *
   */

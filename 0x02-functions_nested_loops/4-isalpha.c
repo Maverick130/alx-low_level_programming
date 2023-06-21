@@ -1,7 +1,7 @@
 #include "main.h"
 /**
   * _isalpha - cheaks for alphabetic character
-  *
+  * @c - int to be worked on
   * Return: o success
   *
   */
