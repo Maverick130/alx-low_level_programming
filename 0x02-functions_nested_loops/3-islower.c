@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * _isalpha: main functionof the code and it return 1 when lowercase and 0 for the others
+  * _islower: return 1 when lowercase and 0 for the others
   *
   * @c: the character in ASCII code
   * Return: 1 for lowercase or 0 for the others
