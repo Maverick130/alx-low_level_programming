@@ -5,15 +5,15 @@
   *
   */
 void print_alphabet_x10(void);
-/* declaring a variable */
-	int g;
-	int b;
+{
+	int i;
+	int j;
 
-	for (g = 1; b <= 10; b++)
+	for (j = 1; i <= 10; i++)
 	{
-		for (g = '97'; g <= '122'; g++)
+		for (j = 97; j <= 122; j++)
 		{
-			_putchar(g);
+			_putchar(j);
 		}
 		_putchar('\n');
 	}
