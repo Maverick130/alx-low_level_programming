@@ -2,7 +2,8 @@
 #include <stdio.h>
 /**
  * swap_int - swaps the value of two integers
- * @int: holds variabl@int: holds variablee
+ * @a: holds variabl@int: holds variablee
+ * @b: second variable
  * Return: 0 success
  */
 void swap_int(int *a, int *b)
